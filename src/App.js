@@ -56,7 +56,6 @@ class App extends Component {
       throw new Error(`failed to get ${cid}`)
     }
   
-    // request succeeded! do something with the response object here...
   }
 
   render() {
